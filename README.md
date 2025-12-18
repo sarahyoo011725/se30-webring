@@ -8,7 +8,7 @@ To add yourself to the webring:
 
 1. Fork this repository
 2. Add your profile picture:
-   - Add your profile picture image file to the `assets/pfps/` directory
+   - Add your profile picture image file to the `public/assets/pfps/` directory
    - Use a descriptive filename (e.g., `your-name.jpg` or `your-name.png`)
    - Recommended: Square image, at least 200x200 pixels
 3. Open `src/data/students.ts`
@@ -16,8 +16,8 @@ To add yourself to the webring:
    ```typescript
    {
      name: "Your Full Name",
-     website: "https://yourwebsite.com",
-     pfp: "assets/pfps/your-name.jpg"
+     website: "https://your-site.com",
+     pfp: "assets/pfps/your-name.jpg" // Do not include 'public/' in the path!
    }
    ```
    - Make sure the `pfp` path matches the filename you added in step 2
