@@ -2,7 +2,15 @@
 
 <img src="https://se30webring.com/assets/icon-yellow.svg" alt="SE '30 Webring Icon" width="64" height="64" />
 
-A webring for Software Engineering class of 2030 students at the University of Waterloo.
+A webring for Software Engineering class of 2030 students at the [University of Waterloo](https://uwaterloo.ca/).
+
+## What's a Webring?
+
+A webring is a collection of websites linked together in a circular structure. Each site in the ring contains links to the previous and next sites, creating a loop that allows visitors to navigate through all member sites!
+
+## Can I Join?
+
+We welcome all students of our cohort to join! If you're not part of our cohort, you might be interested in other UW webrings including the general [SE Webring](https://se-webring.xyz/) and the [CS Webring](https://cs.uwatering.com/).
 
 ## Join the Webring
 
@@ -70,4 +78,4 @@ Here's what to add to your personal website in order to be part of the webring f
 
 ## Credits & Inspiration
 
-This webring was heavily inspired by the works of the general [SE Webring](https://se-webring.xyz/) and the [CS Webring](https://cs.uwatering.com/).
+This webring was heavily inspired by the works of the general [SE Webring](https://se-webring.xyz/) and the [CS Webring](https://cs.uwatering.com/). Go check them out!
