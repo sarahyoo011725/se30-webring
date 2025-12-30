@@ -8,7 +8,7 @@ export const students: Student[] = [
   },
   {
     name: "Ricky Tang",
-    website: "https://www.rickytang.dev",
+    website: "https://rickytang.dev",
     pfp: "assets/pfps/ricky-tang.jpg",
   },
   {
